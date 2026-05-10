@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mausam 👋
 
-<!--
-**mausam-03/mausam-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Backend Engineer  
+⚙️ Building scalable systems with Node.js, Express, PostgreSQL  
+💳 Experience in Payment Gateway Integrations & System Design  
+🚀 Currently working on real-world backend systems & distributed architectures
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔧 Backend-focused developer with experience in real production systems
+- 💳 Worked on payment systems & integrations (Stripe, PhonePe concepts)
+- 🏗️ Strong understanding of system design, APIs, and microservices
+- 📈 Currently improving DSA & building scalable backend projects
+
+ ## 🚀 Tech Stack
+
+**Backend:** Node.js, Express.js  
+**Database:** PostgreSQL, Prisma  
+**Real-time:** Socket.IO  
+**Queue & Jobs:** BullMQ, Redis  
+**Authentication:** JWT, OAuth  
+**Tools:** Docker, Postman, Git  
+
